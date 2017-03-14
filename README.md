@@ -1,5 +1,7 @@
 # Absinthe Plug
 
+> CDN to China CDN
+
 [![Build Status](https://travis-ci.org/absinthe-graphql/absinthe_plug.svg?branch=master
 "Build Status")](https://travis-ci.org/absinthe-graphql/absinthe_plug)
 

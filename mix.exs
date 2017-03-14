@@ -4,7 +4,7 @@ defmodule Absinthe.Plug.Mixfile do
   @version "1.2.5"
 
   def project do
-    [app: :absinthe_plug,
+    [app: :absinthe_plug_cn,
      version: @version,
      elixir: "~> 1.3",
      build_embedded: Mix.env == :prod,
